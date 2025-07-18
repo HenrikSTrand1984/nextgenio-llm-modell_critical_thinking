@@ -9,17 +9,17 @@
 
 ## 📘 Om prosjektet
 
-Dette prosjektet er en del av NextGenio-plattformen og bygger en liten, funksjonell LLM-modell fra bunnen av med fokus på **kritisk tenkning, forklarbarhet og selvlæring**. Koden og strukturen er inspirert av boken [*Build a Large Language Model (From Scratch)*](https://github.com/rasbt/LLMs-from-scratch) av Sebastian Raschka, men utviklet for nye forskningsformål innen AI og bevisst resonnering.
+Dette prosjektet er en del av NextGenio-plattformen og bygger en liten, funksjonell LLM-modell fra bunnen av med fokus på kritisk tenkning, forklarbarhet og selvlæring. Koden og strukturen er inspirert av boken *Build a Large Language Model (From Scratch)* av Sebastian Raschka, men utviklet for nye forskningsformål innen AI og bevisst resonnering.
 
-Prosjektet implementerer både modellarkitektur, treningsløp og validering – samtidig som det dokumenterer **kravspesifikasjoner**, **use cases**, og **arkitekturvalg** i tråd med ISO-standarder.
+Prosjektet implementerer både modellarkitektur, treningsløp og validering – samtidig som det dokumenterer kravspesifikasjoner, use cases, og arkitekturvalg i tråd med ISO-standarder.
 
 ---
 
 ## 🧩 Hovedmål
 
-- Skape en **eksperimentell LLM** med støtte for metakognitiv læring og kritisk evaluering av påstander
-- Utforske **selvrefleksjon og forklarbarhet (XAI)** i arkitektur og output
-- Dokumentere hele utviklingsprosessen fra **idé til implementasjon**
+- Skape en eksperimentell LLM med støtte for metakognitiv læring og kritisk evaluering av påstander  
+- Utforske selvrefleksjon og forklarbarhet (XAI) i arkitektur og output  
+- Dokumentere hele utviklingsprosessen fra idé til implementasjon  
 
 ---
 
@@ -48,4 +48,3 @@ Prosjektet implementerer både modellarkitektur, treningsløp og validering – 
 ├── requirements.txt             # Avhengigheter via pip
 ├── LICENSE.txt                  # MIT-lisens
 └── README.md                    # Denne filen
-
